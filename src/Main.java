@@ -28,6 +28,7 @@ public class Main {
     public static void main(String[] args) {
         password password = new password();
         System.out.println(password.getPassword());
+        System.out.println("v2");
 //        Percent percent = new Percent();
 //        System.out.println(percent.getProduct_completion_percentage());
 //        String time = String.valueOf(LocalDateTime)
